@@ -4,15 +4,15 @@
 
 项目提供三个相互独立、可单独执行的批处理脚本，无需安装，双击即可运行，并支持随时还原。
 
-本项目为非官方、非盈利的个人开源项目，与豆包输入法官方无任何关联。
-
 <p align="center">
-  <img src="assets/before.png" width="260" alt="修改前：豆包默认头像">
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <img src="assets/after.png" width="260" alt="修改后：系统键盘图标">
+  <img src="assets/before.png" width="240" alt="修改前：豆包默认头像">
+  <br><br>
+  <b>↓</b>
+  <br><br>
+  <img src="assets/after.png" width="240" alt="修改后：系统键盘图标">
 </p>
 
-<p align="center">修改前：豆包默认头像　·　修改后：系统键盘图标</p>
+<p align="center"><sub>（上）修改前：豆包默认头像　·　（下）修改后：系统键盘图标</sub></p>
 
 ---
 
