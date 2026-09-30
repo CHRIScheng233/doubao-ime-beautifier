@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="before.png" width="260" alt="改前：豆包小头像">
+  <img src="assets/before.png" width="260" alt="改前：豆包小头像">
   &nbsp;&nbsp;➡&nbsp;&nbsp;
-  <img src="after.png" width="260" alt="改后：系统键盘图标">
+  <img src="assets/after.png" width="260" alt="改后：系统键盘图标">
 </p>
 
 <p align="center"><sub>改前：豆包小头像　·　改后：系统键盘图标</sub></p>
